@@ -39,7 +39,7 @@ The final dashboard includes:
 6. **Main Pollutant Frequency (Pie Chart)**
 7. **Interactive Filters (Slicers)** by Station, Season, Quater, Hour and Main Pollutant
 
-➡️ [Download Power BI file (.pbix)](./HCMC_Air_Quality_Analysis_2021_2022.pbix)
+➡️ [Download Power BI file (.pbix)](./Air Quality Dashboard - HCMC 2021–2022.pbix)
 
 ## 📈 Key Findings
 
