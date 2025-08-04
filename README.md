@@ -52,14 +52,14 @@ The final dashboard includes:
 - **Pandas, Matplotlib, Seaborn**
 - **Power BI** for dashboard visualization
 
-## 📂 Folder Structure
+```
 📁 Air-quality-hcmc
 │
 ├── HCMC_AQI_Cleaned.csv/ # Raw and cleaned data files
 ├── Comprehensive Air Quality Analysis and Forecasting Project (2021 - 2022).ipynb/ # Jupyter Notebooks for EDA and AQI calculation
 ├── Air Quality Dashboard - HCMC 2021–2022.pbix # Power BI Dashboard
 └── README.md # Project documentation
-
+```
 
 ## 👤 Author
 
