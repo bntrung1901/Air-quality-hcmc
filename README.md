@@ -39,8 +39,6 @@ The final dashboard includes:
 6. **Main Pollutant Frequency (Pie Chart)**
 7. **Interactive Filters (Slicers)** by Station, Season, Quater, Hour and Main Pollutant
 
-➡️ [Download Power BI file (.pbix)](./Air Quality Dashboard - HCMC 2021–2022.pbix)
-
 ## 📈 Key Findings
 
 - AQI peaked around **5 PM** (typically during rush hour).
@@ -55,11 +53,11 @@ The final dashboard includes:
 - **Power BI** for dashboard visualization
 
 ## 📂 Folder Structure
-📁 HCMC_Air_Quality_Analysis
+📁 Air-quality-hcmc
 │
-├── data/ # Raw and cleaned data files
-├── notebooks/ # Jupyter Notebooks for EDA and AQI calculation
-├── HCMC_Air_Quality_Analysis_2021_2022.pbix # Power BI Dashboard
+├── HCMC_AQI_Cleaned.csv/ # Raw and cleaned data files
+├── Comprehensive Air Quality Analysis and Forecasting Project (2021 - 2022).ipynb/ # Jupyter Notebooks for EDA and AQI calculation
+├── Air Quality Dashboard - HCMC 2021–2022.pbix # Power BI Dashboard
 └── README.md # Project documentation
 
 
